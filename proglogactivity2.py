@@ -12,7 +12,7 @@ engine.stop()
 
 name = input("What's your name?:\n ")
 
-while name == "":
+while name == "": 
     print("You did not enter your name >:((")   
     name = input("Enter your name: \n")
 
